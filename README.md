@@ -37,6 +37,11 @@ Only addresses with the MINTER_ROLE can mint new tokens. The mint function is re
 ## Permit
 The contract supports the EIP-2612 permit function, which allows users to approve token transfers without the need for multiple transaction calls. This feature is optional and can be useful when interacting with certain DeFi platforms or decentralized applications.
 
+## Authors
+
+Hilina Amare Dechasa  
+[21CBS1058@cuchd.in]
+
 ## License
 The contract is released under the MIT License, which is a permissive open-source license allowing for reuse and distribution of the code. You can find the license text at the top of the Solidity file.
 
